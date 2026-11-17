@@ -21,8 +21,8 @@
 ### 1. โคลนโปรเจกต์ลงเครื่อง (Clone Repository)
 เปิด Terminal หรือ Command Prompt แล้วพิมพ์คำสั่ง:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/httpsmac/height-to-weight-predictor.git
+cd height-to-weight-predictor
 ```
 *(หมายเหตุ: อย่าลืมเปลี่ยน `your-username/your-repo-name` เป็นลิงก์ GitHub ของคุณ)*
 
